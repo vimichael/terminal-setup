@@ -27,6 +27,8 @@ I tried to include relevant config files. I can't publicize my entire dotfiles b
   [https://github.com/ajeetdsouza/zoxide]
 - lazygit
   [https://github.com/jesseduffield/lazygit]
+- For navigation between tmux panes and nvim panes  
+  [https://github.com/christoomey/vim-tmux-navigator]
 
 ## Fun Stuff
 
