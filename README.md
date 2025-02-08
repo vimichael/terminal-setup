@@ -6,6 +6,11 @@ I tried to include relevant config files. I can't publicize my entire dotfiles b
 
 - Terminal  
   [https://sw.kovidgoyal.net/kitty/]
+- Shell  
+  [https://www.zsh.org/]
+- Shell Customization  
+  [https://ohmyz.sh/]
+- ZSH theme: refined (with minor adjustments)
 - Font: Iosevka Term
 - Theme: [base16-black-metal-gorgoroth](https://github.com/metalelf0/base16-black-metal-scheme)
 - nvim config: [https://github.com/vimichael/my-nvim-config]
